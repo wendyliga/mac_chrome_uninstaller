@@ -8,10 +8,10 @@ more reason to remove Chrome, read https://chromeisbad.com
 open terminal, and paste it.
 
 ```
-- cd ~/Downloads/
-- git clone https://github.com/wendyliga/mac_chrome_uninstaller.git
-- cd mac_chrome_uninstaller
-- sudo ./chrome_uninstaller.sh
+cd ~/Downloads/
+git clone https://github.com/wendyliga/mac_chrome_uninstaller.git
+cd mac_chrome_uninstaller
+sudo ./chrome_uninstaller.sh
 ```
 
 *Note: require sudo to grant access to remove folder on system level access like `/Library`
