@@ -1,7 +1,7 @@
 # MacOS Chrome Uninstaller
 
 This is a script to clean uninstall Chrome on MacOS.
-If you looking for reason to remove chrome, read https://chromeisbad.com
+more reason to remove Chrome, read https://chromeisbad.com
 
 # How to Use
 
