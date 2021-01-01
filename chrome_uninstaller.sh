@@ -22,12 +22,10 @@
 
 rm -rf /Applications/Google\ Chrome.app/
 rm /Library/LaunchAgents/com.google.keystone*
-rm /Library/LaunchAgents/com.google.keystone*
 rm -rf /Library/Application\ Support/Google/Chrome
 rm ~/Library/Preferences/com.google.Chrome*
 
 rm -rf ~/Applications/Chrome\ Apps.localized/
-rm ~/Library/LaunchAgents/com.google.keystone*
 rm ~/Library/LaunchAgents/com.google.keystone*
 rm -rf ~/Library/Application\ Support/Google/Chrome
 rm ~/Library/Preferences/com.google.Chrome*
